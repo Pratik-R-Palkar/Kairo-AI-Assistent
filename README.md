@@ -8,7 +8,7 @@ KAIRO is a production-ready desktop AI assistant with local-first voice and visi
 
 ## ⚡ Quick Start (Windows Installer)
 
-1. Download and run `setup.exe` from [Releases](../../releases)
+1. Download and run `kairo setup.exe` from [Releases](../../releases)
 2. On first launch, KAIRO shows a **one-time API setup screen**
 3. Paste your API keys and click **Save & Launch**
 4. Done — KAIRO remembers your keys and never asks again
