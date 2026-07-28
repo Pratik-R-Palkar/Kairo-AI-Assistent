@@ -70,6 +70,8 @@
 
 > ⚠️ **Never commit your `.env` file or any API keys.** Use `.env.example` as a template.
 
+> To Close Kairo Press: alt+f4
+
 ---
 
 ## 🔑 API Keys — Where to Get Them
